@@ -67,9 +67,6 @@ in this case, the damage factor against each of them must be taken into account 
 ## Quick Start
 Installation Steps
 ```bash
-git https://github.com/Woodchucks/Domino_Pokemon.git
-cd domino_pokemon
-py -m venv venv
-.\venv\Scripts\activate
+git clone https://github.com/Woodchucks/Domino_Pokemon.git
 pip install requests
 ```

@@ -1,5 +1,13 @@
 # Dominos alogrithm and Pokemon
-This Repository shows the solution of two problems mentioned below.
+This Repository shows the solution of two problems mentioned in the header above.<br />
+For details please scroll down :)
+
+## Quick Start
+Installation Steps
+```bash
+git clone https://github.com/Woodchucks/Domino_Pokemon.git
+pip install requests
+```
 
 # Dominos algorithm Explanation
 Dominos are represented in the form of a string that consists of the following characters:
@@ -62,11 +70,3 @@ in this case, the damage factor against each of them must be taken into account 
   
   The app uses **PokeAPI**: <br />
   https://pokeapi.co/api/v2/type/ysznetype}
-  
-
-## Quick Start
-Installation Steps
-```bash
-git clone https://github.com/Woodchucks/Domino_Pokemon.git
-pip install requests
-```

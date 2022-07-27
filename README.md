@@ -1,4 +1,4 @@
-# Dominos alogrithm and Pokemon
+# Dominos algorithm and Pokemon
 This Repository shows the solution of two problems mentioned in the header above.<br />
 For details please scroll down :)
 
